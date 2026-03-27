@@ -1,0 +1,33 @@
+aid: ivanti
+name: Ivanti
+description: >-
+  Ivanti is an IT asset management and security platform providing unified endpoint management, patch management, and IT service management.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - IT Asset Management
+  - Endpoint Management
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ivanti/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: ivanti:ivanti
+    name: Ivanti
+    description: >-
+      Ivanti is an IT asset management and security platform providing unified endpoint management, patch management, and IT service management.
+    humanURL: https://www.ivanti.com
+    tags:
+      - IT Asset Management
+    properties:
+      - type: Documentation
+        url: https://www.ivanti.com/resources
+common:
+  - type: Website
+    url: https://www.ivanti.com
+  - type: Documentation
+    url: https://www.ivanti.com/resources
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
