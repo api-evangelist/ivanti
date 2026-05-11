@@ -87,6 +87,19 @@ common:
     url: https://www.ivanti.com/support/api
   - type: Resources
     url: https://www.ivanti.com/resources
+  - type: Integrations
+    url: https://www.ivanti.com/partners
+integrations:
+  - name: Two people performing a handshake.
+  - name: 5-star CRN Partner Program award banner
+  - name: Carahsoft-Blue-Logo
+  - name: logicalis
+  - name: Acceron
+  - name: m tech
+  - name: innovads
+  - name: sector27
+  - name: Lenovo
+  - name: infinigate
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
