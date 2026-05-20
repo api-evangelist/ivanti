@@ -81,6 +81,8 @@ apis:
       - type: Documentation
         url: https://forums.ivanti.com/s/article/How-to-connect-to-EPM-APIs
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ivanti
   - type: Website
     url: https://www.ivanti.com
   - type: API Support
