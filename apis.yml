@@ -81,6 +81,10 @@ apis:
       - type: Documentation
         url: https://forums.ivanti.com/s/article/How-to-connect-to-EPM-APIs
 common:
+  - type: VulnerabilityDisclosure
+    url: security/ivanti-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/ivanti-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ivanti
   - type: Website
@@ -91,6 +95,8 @@ common:
     url: https://www.ivanti.com/resources
   - type: Integrations
     url: https://www.ivanti.com/partners
+  - url: https://www.ivanti.com/blog/rss
+    type: Blog
 integrations:
   - name: Two people performing a handshake.
   - name: 5-star CRN Partner Program award banner
