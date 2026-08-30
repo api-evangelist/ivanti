@@ -34,7 +34,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ivanti.png
 tags:
   - Endpoint Management
   - IT Asset Management
-  - ITSM
+  - IT Service Management
   - Patch Management
   - Mobile Device Management
   - Zero Trust
@@ -82,7 +82,7 @@ apis:
       data and operations.
     humanURL: https://help.ivanti.com/ht/help/en_US/ISM/2022/admin/Content/Configure/API/RestAPI-Introduction.htm
     tags:
-      - ITSM
+      - IT Service Management
     tags_raw:
       - IT Service Management
     properties:
