@@ -113,6 +113,12 @@ apis:
       - type: Documentation
         url: https://forums.ivanti.com/s/article/How-to-connect-to-EPM-APIs
 common:
+  - type: Plans
+    url: plans/ivanti-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/ivanti-rate-limits.yml
+  - type: FinOps
+    url: finops/ivanti-finops.yml
   - type: VulnerabilityDisclosure
     url: security/ivanti-vulnerability-disclosure.yml
   - type: DomainSecurity
