@@ -67,7 +67,7 @@
     - connectors/applications/ivanti
     vendor_link: https://www.ivanti.com/
     builder: Fivetran
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
 - slug: ivanti-microsoft-teams-own
   label: Microsoft Teams (own)
